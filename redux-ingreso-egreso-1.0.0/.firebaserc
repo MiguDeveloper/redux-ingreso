@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-ffeee": {
+      "hosting": {
+        "ingresoEgreso": [
+          "ingreso-egreso-app-ffeee"
+        ]
+      }
+    }
+  }
+}
